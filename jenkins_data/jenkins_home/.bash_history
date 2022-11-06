@@ -18,3 +18,9 @@ cat script.sh
 ./script.sh Ruben Voß
 vi script.sh 
 exit
+ssh remote_user@remote-host
+docker ps
+ping remote-host
+exit
+ssh remote_user@remote-host
+exit
