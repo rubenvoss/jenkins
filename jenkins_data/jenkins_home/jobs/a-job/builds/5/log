@@ -1,9 +1,0 @@
-Started by user [8mha:////4C7bdBHMs09sDCMj2k7BKZnMzfSPJF3RoFebO2SDpNLYAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9otKk1DwA8t1lAMAAAAA=[0mRuben Voß
-Running as SYSTEM
-Building in workspace /var/jenkins_home/workspace/a-job
-[a-job] $ /bin/sh -xe /tmp/jenkins13730112485261310872.sh
-+ echo Hello World
-Hello World
-+ date
-Sun Nov  6 13:07:04 UTC 2022
-Finished: SUCCESS
